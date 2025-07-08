@@ -1,0 +1,10 @@
+# Archivos de Node.js (comunes para frontend y backend)
+node_modules/
+.env
+
+# Archivos específicos de frontend (si aplica, por ejemplo, archivos de build)
+frontend/build/
+frontend/dist/
+
+# Archivos específicos de backend (si aplica)
+backend/dist/
